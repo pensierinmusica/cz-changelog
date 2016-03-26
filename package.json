@@ -1,0 +1,25 @@
+{
+  "name": "cz-changelog",
+  "version": "1.0.0",
+  "description": "Commitizen adapter for a standardized changelog format.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pensierinmusica/cz-changelog.git"
+  },
+  "keywords": [
+    "commitizen",
+    "changelog",
+    "commit",
+    "git"
+  ],
+  "author": "Alessandro Zanardi",
+  "license": "MIT",
+  "homepage": "https://github.com/pensierinmusica/cz-changelog",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "word-wrap": "^1.1.0"
+  }
+}
